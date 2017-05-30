@@ -1,7 +1,7 @@
 class ViewController: UIViewController, Styleable {
 
-  override func viewDidLoad() {
-    super.viewDidLoad()
-    applyStyle()
-  }
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        applyStyle()
+    }
 }
